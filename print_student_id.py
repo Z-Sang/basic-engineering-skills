@@ -6,6 +6,9 @@ def print_id(student_id):
 def calculate_sum(array):
     return array.sum()
 
+def ...
+
+
 if "__name__" == "__main__":
     print_id("345678")
     calculate_sum(np.array([1,2,3]))
